@@ -1,21 +1,67 @@
-MIT License
+# Cataclysm — License
 
 Copyright (c) 2026 MC Orion
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Cataclysm, a Terraria mod, is distributed under a dual-license structure. The source code is licensed under the MIT License, while original artistic and creative assets are protected under All Rights Reserved.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 1. Source Code — MIT License
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+All original source code within this repository, including C# source files, is licensed under the MIT License unless otherwise indicated.
+
+**MIT License**
+
+Copyright (c) 2026 MC Orion
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## 2. Artistic Assets — All Rights Reserved
+
+Copyright (c) 2026 MC Orion
+
+All original artistic and creative assets developed for Cataclysm are protected under All Rights Reserved.
+
+This includes, but is not limited to:
+
+- Textures, sprites, and animations
+- Boss, enemy, character, and item artwork
+- Music, sound effects, and other audio
+- Visual effects, models, and graphical elements
+- Logos, icons, and promotional artwork
+
+These restrictions apply regardless of the assets' location within the repository, including the `Content/` directory and its subdirectories.
+
+Unless explicitly authorized by the copyright holder, these assets may not be copied, modified, redistributed, sublicensed, sold, or incorporated into other projects.
+
+Permission is granted to display these assets through ordinary gameplay, screenshots, gameplay recordings, livestreams, and videos featuring Cataclysm.
+
+This permission does not grant rights to extract or redistribute the assets independently.
+
+## 3. Mod Distribution and Derivative Works
+
+The MIT License permits modification, redistribution, and commercial use of the source code.
+
+However, these permissions do not extend to original artistic assets protected under Section 2.
+
+Distributing modified or compiled versions of Cataclysm containing protected assets requires prior authorization from their respective copyright holders, unless otherwise permitted by applicable law.
+
+Developers may create and distribute derivative works based on MIT-licensed code, provided they comply with the MIT License and obtain appropriate rights for any included assets.
+
+## 4. Third-Party Materials
+
+Any third-party software, libraries, artwork, or other materials included in this project remain subject to their respective licenses and copyright notices.
+
+This license does not supersede third-party rights, including those relating to Terraria or tModLoader.
+
+## 5. Contributions
+
+Unless explicitly agreed otherwise, accepted source code contributions are provided under the MIT License.
+
+Artistic contributions must be accompanied by appropriate permission for their inclusion and distribution in Cataclysm. Contributors retain any rights not expressly granted.
+
+---
+
+**In summary:** Cataclysm's original code is MIT-licensed. Its original artistic assets are All Rights Reserved. Permission to use the code does not imply permission to reuse the assets.
