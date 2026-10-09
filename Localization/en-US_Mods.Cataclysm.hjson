@@ -3,12 +3,7 @@
 
 Items: {
 	fish: {
-		DisplayName: "fish"
-		Tooltip:
-			'''
-			Template of an item
-			Replacing this tooltip is duty 
-			It's snowing on Mt.Fuji
-			'''
+		DisplayName: fish
+		Tooltip: fih!
 	}
 }

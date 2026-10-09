@@ -1,0 +1,13 @@
+C:\Users\Guy\Documents\My Games\Terraria\tModLoader\ModSources\Cataclysm\bin\Debug\net8.0\Cataclysm.deps.json
+C:\Users\Guy\Documents\My Games\Terraria\tModLoader\ModSources\Cataclysm\bin\Debug\net8.0\Cataclysm.dll
+C:\Users\Guy\Documents\My Games\Terraria\tModLoader\ModSources\Cataclysm\bin\Debug\net8.0\Cataclysm.pdb
+C:\Users\Guy\Documents\My Games\Terraria\tModLoader\ModSources\Cataclysm\obj\Debug\net8.0\Cataclysm.csproj.AssemblyReference.cache
+C:\Users\Guy\Documents\My Games\Terraria\tModLoader\ModSources\Cataclysm\obj\Debug\net8.0\Cataclysm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guy\Documents\My Games\Terraria\tModLoader\ModSources\Cataclysm\obj\Debug\net8.0\Cataclysm.AssemblyInfoInputs.cache
+C:\Users\Guy\Documents\My Games\Terraria\tModLoader\ModSources\Cataclysm\obj\Debug\net8.0\Cataclysm.AssemblyInfo.cs
+C:\Users\Guy\Documents\My Games\Terraria\tModLoader\ModSources\Cataclysm\obj\Debug\net8.0\Cataclysm.csproj.CoreCompileInputs.cache
+C:\Users\Guy\Documents\My Games\Terraria\tModLoader\ModSources\Cataclysm\obj\Debug\net8.0\Cataclysm.sourcelink.json
+C:\Users\Guy\Documents\My Games\Terraria\tModLoader\ModSources\Cataclysm\obj\Debug\net8.0\Cataclysm.dll
+C:\Users\Guy\Documents\My Games\Terraria\tModLoader\ModSources\Cataclysm\obj\Debug\net8.0\refint\Cataclysm.dll
+C:\Users\Guy\Documents\My Games\Terraria\tModLoader\ModSources\Cataclysm\obj\Debug\net8.0\Cataclysm.pdb
+C:\Users\Guy\Documents\My Games\Terraria\tModLoader\ModSources\Cataclysm\obj\Debug\net8.0\ref\Cataclysm.dll
